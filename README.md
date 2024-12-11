@@ -87,17 +87,17 @@
 ### GitHub Stats
 
 <p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mrvantes&show_icons=true&locale=en" alt="mrvantes" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=mrvantes&show_icons=true&locale=en" alt="mrvantes" />
 </p>
 
 ### Top Languages
 
 <p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrvantes&show_icons=true&locale=en&layout=compact" alt="mrvantes" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrvantes&show_icons=true&locale=en&layout=compact" alt="mrvantes" />
 </p>
 
 ### GitHub Streak
 
 <p align="center">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvantes&" alt="mrvantes" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvantes&" alt="mrvantes" />
 </p>
