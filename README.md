@@ -5,7 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=mrvantes&label=Profile%20views&color=0e75b6&style=flat" alt="mrvantes" />
 </p>
 
-### Connect with me: vantes.strive@gmail.com
+### Connect with me: 
+vantes.strive@gmail.com
 <!-- Add any links to your social media or contact methods -->
 
 ### Languages and Tools:
